@@ -11,11 +11,12 @@
     "react-router-dom": "^6.21.3",
     "react-scripts": "5.0.1",
     "short-unique-id": "^5.0.3",
+    "socket.io-client": "^4.7.4",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build", 
+    "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "tail": "tailwind -i ./src/index.css -o ./src/output.css --watch"
